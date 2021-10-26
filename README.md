@@ -1,2 +1,2 @@
-# cli_assessment
-A command line application for calculating numbers using different operators
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
